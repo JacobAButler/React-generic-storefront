@@ -1,0 +1,42 @@
+.appGrid
+{
+  height:100%;
+  width:100vw;
+}
+.appGrid
+{
+  height: auto;
+  width: 100%;
+  background-color: pink;
+}
+
+.headerRow
+{
+  background-color: skyblue;
+  height:16%;
+}
+
+.bodyRow
+{
+  background-color: orangered;
+  height:auto;
+}
+
+.footerRow
+{
+  background-color: lightgreen;
+  height:33%;
+}
+
+.bodyRowSidePane
+{
+  background-color: forestgreen;
+  width:17%;
+}
+.bodyRowMainView
+{
+  background-color:rgb(172, 82, 172);
+  overflow-y: scroll;
+  width:83%;
+}
+
